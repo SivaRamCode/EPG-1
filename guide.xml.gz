@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <url>http://www.myklik.rtm.gov.my</url>
+  </channel>
+  <programme start="20210107000000 +0800" stop="20210107003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210107003000 +0800" stop="20210107010000 +0800" channel="TV1">
+    <title lang="en">Klik-Klik (Sr.5)</title>
+    <desc lang="en">Jom! Mengembara bersama ND ke tempat yang paling indah di Pergunungan Anapurna dan Tasik Pek Hwa, Nepal.(n)</desc>
+  </programme>
+  <programme start="20210107010000 +0800" stop="20210107013000 +0800" channel="TV1">
+    <title lang="en">Kustom Roda</title>
+    <desc lang="en">Bersama Izzue Islam bertemu dengan Uncle Tan (Pemilik Bengkel Motor Klasik) &amp; Joy Case (Pemilik Bengkel Kereta Klasik) untuk berkongsi tips serta penjagaan aset kenderaan, aksesori dan ubah suai kenderaan.(n)</desc>
+  </programme>
+  <programme start="20210107013000 +0800" stop="20210107023000 +0800" channel="TV1">
+    <title lang="en">Sukan Lejen - Diskusi Imbasan Edited</title>
+    <desc lang="en">Mengimbas kembali kejayaan Malaysia memenangi Pingat Gangsa Hoki Malaysia dalam Temasya Sukan Asia di Busan.(n)</desc>
+  </programme>
+  <programme start="20210107023000 +0800" stop="20210107030000 +0800" channel="TV1">
+    <title lang="en">Skuad Chenta</title>
+    <desc lang="en">Bersama Angah RL dan Nana Mahazan, berkongsi kisah dan aktiviti harian Puan Aisyah.(n)</desc>
+  </programme>
+  <programme start="20210107030000 +0800" stop="20210107033000 +0800" channel="TV1">
+    <title lang="en">Rentak Jalanan</title>
+    <desc lang="en">Jom! Ikut Jimmy Shanley ke Tasik Pergau, Kelantan.(n)</desc>
+  </programme>
+  <programme start="20210107033000 +0800" stop="20210107043000 +0800" channel="TV1">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Drama mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup membunuh semata-mata untuk memuaskan nafsu dendam kesumatnya. Lakonan : Ayu Raudah dan Syed Aiman.(n)</desc>
+  </programme>
+  <programme start="20210107043000 +0800" stop="20210107050000 +0800" channel="TV1">
+    <title lang="en">Sinei Kitak Tok</title>
+    <desc lang="en">Jom! Bersama Azam Pitt mengharungi perjalanan mencabar di Sungai Katibas, melihat tempat bersejarah di Sungai Katibas dan makan ikan termahal di Malaysia.(n)</desc>
+  </programme>
+  <programme start="20210107050000 +0800" stop="20210107060000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Qarin</title>
+    <desc lang="en">Dhia masih mendengar dan diganggu oleh suara Aurelia!(n)</desc>
+  </programme>
+  <programme start="20210107060000 +0800" stop="20210107070000 +0800" channel="TV1">
+    <title lang="en">My Halal 7 Januari 2021</title>
+    <desc lang="en">Ikuti diskusi tentang 'Covid-19 : Ke Mana Pensijilan Halal?' bersama tetamu jemputan, Mohd Fakarudin Mas'od (KPP Cawangan Pengesahan Halal Bahagian Pengurusan Halal, JAKIM) dan Ahmad Syukry Ibrahim (Ahli Jawatankuasa Halal Persekutuan Pekilang-Pekilang Malaysia).(n)</desc>
+  </programme>
+  <programme start="20210107070000 +0800" stop="20210107073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210107073000 +0800" stop="20210107074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210107074500 +0800" stop="20210107080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210107080000 +0800" stop="20210107100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210107100000 +0800" stop="20210107103000 +0800" channel="TV1">
+    <title lang="en">Jiwa Kacau</title>
+    <desc lang="en">Ikuti kupasan lanjut tentang 'OCD - Obsessive Compulsive Disorder' bersama Pakar Psikiatri, Dr. Hazli Zakaria dan Pakar Motivasi, Ustaz Tuan Asmawi.(n)</desc>
+  </programme>
+  <programme start="20210107103000 +0800" stop="20210107110000 +0800" channel="TV1">
+    <title lang="en">Nadi Cergas</title>
+    <desc lang="en">Saksikan perkongsian lanjut tentang INSOMNIA serta resipi hidangan Telur Hancur &amp; Cendawan Portobello, Ayam Panggang dan Terung Sambal dengan Nasi Perang dan Telur Dadar Bayam dengan Oat Pisang.(n)</desc>
+  </programme>
+  <programme start="20210107110000 +0800" stop="20210107113000 +0800" channel="TV1">
+    <title lang="en">Menu RM10</title>
+    <desc lang="en">Saksikan Chef Azli Razali berkongsi menu orang bujang iaitu Kek Ikan dan Ayam Masak Taufu.(n)</desc>
+  </programme>
+  <programme start="20210107113000 +0800" stop="20210107120000 +0800" channel="TV1">
+    <title lang="en">Klik-Klik (Sr.5)</title>
+    <desc lang="en">Bersama Nordin Md Salleh ke negeri di bawah bayu, Sabah melawat beberapa lokasi menarik, antaranya Signal Hill Observatory Tower of Kota Kinabalu, Gunung Kinabalu, Menara Tun Mustapa, Masjid Negara, Pasar Kraftangan, Sg. Klias dan Perkampungan Mari Mari.(n)</desc>
+  </programme>
+  <programme start="20210107120000 +0800" stop="20210107130000 +0800" channel="TV1">
+    <title lang="en">A World Of Colors</title>
+    <desc lang="en">Saksikan tempat, budaya dan alam semula jadi antaranya Apostles, Port Arthur, Coober Pedy, Pinnacles, Adelaide, Melbourne dan Jenolan Caves.(n)</desc>
+  </programme>
+  <programme start="20210107130000 +0800" stop="20210107133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210107133000 +0800" stop="20210107140000 +0800" channel="TV1">
+    <title lang="en">Skuad Chenta</title>
+    <desc lang="en">Bersama Angah RL dan Nana Mahazan, berkongsi kisah dan aktiviti harian 'Surihati Abang Jurugambar Video', Azim Al-Fikri serta 'Mencari Mr. Perfect', Sri Nur Izzati.(n)</desc>
+  </programme>
+  <programme start="20210107140000 +0800" stop="20210107150000 +0800" channel="TV1">
+    <title lang="en">Anda Musykil 7 Januari 2021</title>
+    <desc lang="en">Saksikan perkongsian topik DI SEBALIK NAMA bersama pengacara Nurul Syafiqah Mohamed Hanafiah serta panel jemputan, Prof. Madya Dr. Mohd Sukki Othman (Pensyarah Kanan UPM).(n)</desc>
+  </programme>
+  <programme start="20210107150000 +0800" stop="20210107154500 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Setelah kematian ibunya, bermulalah kehidupan baru Nurul Aliya di rumah anak-anak yatim.(n)</desc>
+  </programme>
+  <programme start="20210107154500 +0800" stop="20210107160000 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Ikuti kisah kegigihan dan kejayaan seorang usahawan wanita berjaya iaitu Norazlina Najmudin yang melakar kejayaan dalam bidang Industri Logistik.(n)</desc>
+  </programme>
+  <programme start="20210107160000 +0800" stop="20210107163000 +0800" channel="TV1">
+    <title lang="en">Agrotek 7 Januari 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang Kelebihan Madu Lebah dan Kurma, Perusahaan Olive House dan Akademi Aafiyat, sebuah pusat latihan untuk usahawan.(n)</desc>
+  </programme>
+  <programme start="20210107163000 +0800" stop="20210107170000 +0800" channel="TV1">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Saksikan paparan lanjut tentang keunikan Kraf Angklung yang diusahakan oleh En. Tumian Muridan bersama warisnya, Amir Fitri Nen serta pengusaha anyaman rotan bersama Encik Emping Galing dan warisnya Khatizah Empin &amp; Veronica Empin.(n)</desc>
+  </programme>
+  <programme start="20210107170000 +0800" stop="20210107180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210107180000 +0800" stop="20210107183000 +0800" channel="TV1">
+    <title lang="en">Bakul Telur Emas</title>
+    <desc lang="en">Bersama Nazril Nash Idrus dan Perunding Kewangan, Khairil Iqbal berkongsi dengan lanjut tentang kisah ABANG PENCEN BERGAYA.(n)</desc>
+  </programme>
+  <programme start="20210107183000 +0800" stop="20210107190000 +0800" channel="TV1">
+    <title lang="en">Usrah Hikmah</title>
+    <desc lang="en">Saksikan diskusi tentang 'BUTA DI IBU KOTA' bersama Omar Mokhtar dan tetamu Dr. Rosmawati Mohamad Rasit, Pengerusi Pusat Kesejahteraan Insan Dan Komuniti, Universiti Kebangsaan Malaysia.(n)</desc>
+  </programme>
+  <programme start="20210107190000 +0800" stop="20210107200000 +0800" channel="TV1">
+    <title lang="en">Sara Kirana</title>
+    <desc lang="en">Elly tuduh Adlin, suami dayus. Adlin pula tuduh Elly curang. Pn. Zulaikha dan Hj Salam terkejut dengan keputusan drastik Zul dan Elly!(n)</desc>
+  </programme>
+  <programme start="20210107200000 +0800" stop="20210107210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210107210000 +0800" stop="20210107220000 +0800" channel="TV1">
+    <title lang="en">Forum Perdana Ehwal Islam (7 Januari 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang AZAM DUA KOSONG DUA SATU bersama Moderator, Ustaz Nabil Ahmad serta Panel Undangan, Ustaz Harryanto Rizal Rokman dan Prof. Madya Dr. Yasmin Hanani Mohd Safian.(n)</desc>
+  </programme>
+  <programme start="20210107220000 +0800" stop="20210107223000 +0800" channel="TV1">
+    <title lang="en">Logika Alam</title>
+    <desc lang="en">Saksikan tentang SEANDAINYA TIADA BINTANG bersama Prof. Emerita Datuk Dr. Mazlan Othman (Felo Kanan Akademi Sains Malaysia).(n)</desc>
+  </programme>
+  <programme start="20210107223000 +0800" stop="20210107230000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Pudin dan kawan-kawan mula menjual kuih untuk cari duit sampingan. Pada masa yang sama, Cikgu Khalid perlukan bantuan Pudin dan berharap agar misinya berjaya!(n)</desc>
+  </programme>
+  <programme start="20210107230000 +0800" stop="20210107233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20210107233000 +0800" stop="20210107235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Aging and Addiction, Knee Problems, Breast Cancer Diagnosis, Diabetes dan Younger Skin.(n)</desc>
+  </programme>
+  <programme start="20210108000000 +0800" stop="20210108003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210108003000 +0800" stop="20210108010000 +0800" channel="TV1">
+    <title lang="en">Klik-Klik (Sr.5)</title>
+    <desc lang="en">Bersama Nordin Md Salleh ke negeri di bawah bayu, Sabah melawat beberapa lokasi menarik, antaranya Signal Hill Observatory Tower of Kota Kinabalu, Gunung Kinabalu, Menara Tun Mustapa, Masjid Negara, Pasar Kraftangan, Sg. Klias dan Perkampungan Mari Mari.(n)</desc>
+  </programme>
+  <programme start="20210108010000 +0800" stop="20210108013000 +0800" channel="TV1">
+    <title lang="en">Agrotek 8 Januari 2021</title>
+    <desc lang="en">Majalah pertanian yang memfokuskan penggunaan teknologi terkini.(n)</desc>
+  </programme>
+  <programme start="20210108013000 +0800" stop="20210108020000 +0800" channel="TV1">
+    <title lang="en">Panorama 8 Januari 2021</title>
+    <desc lang="en">Jururawat sinonimnya merupakan bidang yg bersifat kewanitaan dan dikuasai oleh golongan wanita... di KPJ Klang...jururawat lelaki menyahut cabaran mengubah pandangan masyarakat terhadap jururawat  masa kini. Kupang pula kebiasaannya menjadi bahan dalam menu masakan, tetapi berbeza di negeri Johor, kupang kini diproses menjadi keropok kering. Ia diusahakan oleh penduduk Kampung Sungai Melayu di Johor Bahru.(n)</desc>
+  </programme>
+  <programme start="20210108020000 +0800" stop="20210108023000 +0800" channel="TV1">
+    <title lang="en">SITRUS: Kutub Utara Kutub Selatan</title>
+    <desc lang="en">Azman pulan dari Jakarta dan telah menghantar emaknya, Che Jijah ke hospital. Bagaimana hubungan Rohana dan Che Jija? Apa yang berlaku kepada Mastura?(n)</desc>
+  </programme>
+  <programme start="20210108023000 +0800" stop="20210108030000 +0800" channel="TV1">
+    <title lang="en">Skuad Chenta</title>
+    <desc lang="en">Bersama Angah RL dan Nana Mahazan, berkongsi kisah dan aktiviti harian 'Surihati Abang Jurugambar Video', Azim Al-Fikri serta 'Mencari Mr. Perfect', Sri Nur Izzati.(n)</desc>
+  </programme>
+  <programme start="20210108030000 +0800" stop="20210108033000 +0800" channel="TV1">
+    <title lang="en">Warna Warni Asia</title>
+    <desc lang="en">Bersama Nik Michael Imran masih di Jaipur India merasai kemeriahan sambutan Upacara Holika Dahan, Perayaan Rangwali Holi (Dhulandi).(n)</desc>
+  </programme>
+  <programme start="20210108033000 +0800" stop="20210108043000 +0800" channel="TV1">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Drama mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup membunuh semata-mata untuk memuaskan nafsu dendam kesumatnya. Lakonan : Ayu Raudah dan Syed Aiman.(n)</desc>
+  </programme>
+  <programme start="20210108043000 +0800" stop="20210108050000 +0800" channel="TV1">
+    <title lang="en">Destinasi Agung</title>
+    <desc lang="en">Bersama pengacara Alif AF, menjelajah ke-26 buah masjid secara backpakers juga menceritakan tentang sejarah penubuhan serta keunikan aktiviti yang dijalankan di masjid tersebut.(n)</desc>
+  </programme>
+  <programme start="20210108050000 +0800" stop="20210108054500 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Setelah kematian ibunya, bermulalah kehidupan baru Nurul Aliya di rumah anak-anak yatim.(n)</desc>
+  </programme>
+  <programme start="20210108054500 +0800" stop="20210108060000 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Ikuti kisah kegigihan dan kejayaan seorang usahawan wanita berjaya iaitu Norazlina Najmudin yang melakar kejayaan dalam bidang Industri Logistik.(n)</desc>
+  </programme>
+  <programme start="20210108060000 +0800" stop="20210108070000 +0800" channel="TV1">
+    <title lang="en">Anda Musykil 8 Januari 2021</title>
+    <desc lang="en">Bersama Azrin Md Isa dan panel undangan, Ustaz Fauwaz Fadzil (Pendakwah) membincangkan tentang  'Ibu Duit'.(n)</desc>
+  </programme>
+  <programme start="20210108070000 +0800" stop="20210108073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210108073000 +0800" stop="20210108074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210108074500 +0800" stop="20210108080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210108080000 +0800" stop="20210108100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan wanita.(n)</desc>
+  </programme>
+  <programme start="20210108100000 +0800" stop="20210108103000 +0800" channel="TV1">
+    <title lang="en">TV1 KIDS: Operation Ouch!</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210108103000 +0800" stop="20210108110000 +0800" channel="TV1">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Saksikan kisah WARN THE BABIES dan CROCODILE TEARS.(n)</desc>
+  </programme>
+  <programme start="20210108110000 +0800" stop="20210108120000 +0800" channel="TV1">
+    <title lang="en">Tilawah Interaktif 8 Januari 2021</title>
+    <desc lang="en">Perdengarkan bacaan surah Adz-Dzaariyaat ayat 35-40 dengan bacaan Tarannum Bayyati bersama Muhammad Ammar Mukhlis Abdul Mohsin dan juri undangan, Ustaz Amirahman Abas.(n)</desc>
+  </programme>
+  <programme start="20210108120000 +0800" stop="20210108121500 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210108121500 +0800" stop="20210108124500 +0800" channel="TV1">
+    <title lang="en">Jelajah Hati</title>
+    <desc lang="en">Misi perjalanan Faizal Tahir ke Yogjakarta. Beliau berkesempatan untuk melawat Muzium Keraton dan Masjid Gede Mataram.(n)</desc>
+  </programme>
+  <programme start="20210108124500 +0800" stop="20210108130000 +0800" channel="TV1">
+    <title lang="en">Tazkiyah (8 Januari 2021)</title>
+    <desc lang="en">Bersama Ustaz Muhsin Ahmad, saksikan perkongsian Tadabbur Surah At-Taubah : Ayat 119 serta Hadis : SIFAT ORANG YANG BENAR .(n)</desc>
+  </programme>
+  <programme start="20210108130000 +0800" stop="20210108131700 +0800" channel="TV1">
+    <title lang="en">Mau'izah 8 Januari 2021</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang MENCARI NILAI KEIKHLASAN bersama SS Datuk Mohamad Shukri Mohamad (Mufti Kelantan).(n)</desc>
+  </programme>
+  <programme start="20210108131700 +0800" stop="20210108140000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Solat Jumaat (8 Januari 2021)</title>
+    <desc lang="en">Siaran langsung Solat Jumaat edisi 4 Disember 2020M/ 18 Rabiulakhir 1442H akan dipimpin oleh Ustaz Nor Azamir bin Haji Alias,  Imam Besar dengan khutbah yang akan disampaikan bertajuk 'Aids: Beringat Sebelum Terlambat' dari Masjid Tuanku Mizan Zainal Abidin,  Putrajaya.(n)</desc>
+  </programme>
+  <programme start="20210108140000 +0800" stop="20210108150000 +0800" channel="TV1">
+    <title lang="en">Forum Perdana Ehwal Islam (8 Januari 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang AZAM DUA KOSONG DUA SATU bersama Moderator, Ustaz Nabil Ahmad serta Panel Undangan, Ustaz Harryanto Rizal Rokman dan Prof. Madya Dr. Yasmin Hanani Mohd Safian.(n)</desc>
+  </programme>
+  <programme start="20210108150000 +0800" stop="20210108154500 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Perwatakan Aliya telah berjaya menambat hati Bonda.(n)</desc>
+  </programme>
+  <programme start="20210108154500 +0800" stop="20210108160000 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Saksikan kisah kegigihan dan kejayaan seorang usahawan wanita berjaya iaitu Leftenan Maritim Aida Arzahari (Nakhoda Kapal).(n)</desc>
+  </programme>
+  <programme start="20210108160000 +0800" stop="20210108163000 +0800" channel="TV1">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Bersama Ustaz Nazrul Izwan merantau ke Jawa Barat Indonesia bagi menjejaki Pondok Pengajian Islam Tahfiz Al-Quran Miftahul Mutlallimin.(n)</desc>
+  </programme>
+  <programme start="20210108163000 +0800" stop="20210108170000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 8 Januari 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang hidupan marin yang mempunyai nilai komersial yang tinggi.(n)</desc>
+  </programme>
+  <programme start="20210108170000 +0800" stop="20210108180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210108180000 +0800" stop="20210108181500 +0800" channel="TV1">
+    <title lang="en">Info Medika</title>
+    <desc lang="en">Saksikan perkongsian maklumat berkaitan 'ATOPIK EKZEMA' bersama Dr. Tarika Taib Pakar Perunding Dermatologi Pusat Perubatan Pakar UITM Sungai Buloh.(n)</desc>
+  </programme>
+  <programme start="20210108181500 +0800" stop="20210108183000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210108183000 +0800" stop="20210108190000 +0800" channel="TV1">
+    <title lang="en">Ilmu Aqaaid 8 Januari 2021</title>
+    <desc lang="en">Saksikan penerangan lanjut tentang MALAIKAT bersama Ustaz Najmuddin Abdul Karim.(n)</desc>
+  </programme>
+  <programme start="20210108190000 +0800" stop="20210108200000 +0800" channel="TV1">
+    <title lang="en">Sara Kirana</title>
+    <desc lang="en">Maisarah dah pindah! Ke mana lagi Zahrin nak mencari Maisarah? Apa pun terjadi, Adlin minta supaya Maisarah sahut cabarannya! Zulfakar dah mula bosan ke dengan Elly?(n)</desc>
+  </programme>
+  <programme start="20210108200000 +0800" stop="20210108210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210108210000 +0800" stop="20210108220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Naratif (8 Januari 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang APEC 2020 &amp; BELANJAWAN 2021 bersama YB Dato' Seri Mohamed Azmin Ali, Menteri Kanan, Menteri Perdagangan Antarabangsa &amp; Industri.(n)</desc>
+  </programme>
+  <programme start="20210108220000 +0800" stop="20210108223000 +0800" channel="TV1">
+    <title lang="en">Penginapan Unik</title>
+    <desc lang="en">Bersama Ellyas Abdullah, saksikan keunikan penginapan  Ruby Lagoon Dive Lodge, Lahad Datu, Sabah serta aktiviti yang ditawarkan.(n)</desc>
+  </programme>
+  <programme start="20210108223000 +0800" stop="20210108230000 +0800" channel="TV1">
+    <title lang="en">Agropreneur Muda</title>
+    <desc lang="en">Bersama Shah Hazree berkongsi kisah kejayaan perusahaan Pasago bersama Kurniawan Zakaria serta pengusaha taman agro bersama Nabila Shahruddin dan Hafiz Shahruddin.(n)</desc>
+  </programme>
+  <programme start="20210108230000 +0800" stop="20210108233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20210108233000 +0800" stop="20210108235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Kidney Disease, Bunion Surgery, Pacemakers dan Healthcare Data.(n)</desc>
+  </programme>
+  <programme start="20210109000000 +0800" stop="20210109003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210109003000 +0800" stop="20210109004500 +0800" channel="TV1">
+    <title lang="en">Tazkiyah (9 Januari 2021)</title>
+    <desc lang="en">Bersama Ustaz Muhsin Ahmad, saksikan perkongsian Tadabbur Surah At-Taubah : Ayat 119 serta Hadis : SIFAT ORANG YANG BENAR .(n)</desc>
+  </programme>
+  <programme start="20210109004500 +0800" stop="20210109010000 +0800" channel="TV1">
+    <title lang="en">Khutbah Jumaat 9 Januari 2021</title>
+    <desc lang="en">Ikuti Khutbah Jumaat yang bertajuk 'Bijak Memanfaat Peluang' yang disampaikan oleh Haji Nor Azamir Haji Alias dari Masjid Tuanku Mizan Zainal Abidin.(n)</desc>
+  </programme>
+  <programme start="20210109010000 +0800" stop="20210109011500 +0800" channel="TV1">
+    <title lang="en">Mau'izah 9 Januari 2021</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210109011500 +0800" stop="20210109013000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210109013000 +0800" stop="20210109020000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 9 Januari 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang A SYMPHONY IN BLUE.(n)</desc>
+  </programme>
+  <programme start="20210109020000 +0800" stop="20210109023000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Pudin, Najwa &amp; Muzamil, akan mulakan alam persekolahan mereka di peringkat menengah tidak lama lagi, begitu juga dengan Syamil. Namun...(n)</desc>
+  </programme>
+  <programme start="20210109023000 +0800" stop="20210109030000 +0800" channel="TV1">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Program kembara ke pusat pengajian agama di Indonesia.(n)</desc>
+  </programme>
+  <programme start="20210109030000 +0800" stop="20210109033000 +0800" channel="TV1">
+    <title lang="en">Jelajah Hati</title>
+    <desc lang="en">Ikuti Faizal Tahir dalam misinya cuba menjejaki dan berkongsi pengalaman mengenai makam-makam tersohor dan masjid-masjid bersejarah di Pulau Jawa.(n)</desc>
+  </programme>
+  <programme start="20210109033000 +0800" stop="20210109040000 +0800" channel="TV1">
+    <title lang="en">Penginapan Unik</title>
+    <desc lang="en">Bersama Ellyas Abdullah, saksikan keunikan penginapan SAILOR REST RESORT, KG JANDA BAIK serta aktiviti yang ditawarkan.(n)</desc>
+  </programme>
+  <programme start="20210109040000 +0800" stop="20210109043000 +0800" channel="TV1">
+    <title lang="en">Destinasi Agung</title>
+    <desc lang="en">Bersama pengacara Alif AF, menjelajah ke 26 buah masjid secara backpackers di samping menceritkan mengenai sejarah penubuhan dan keunikan aktiviti yang dijalankan di masjid berkenaan.(n)</desc>
+  </programme>
+  <programme start="20210109043000 +0800" stop="20210109050000 +0800" channel="TV1">
+    <title lang="en">Sfera / Promo</title>
+    <desc lang="en">Sebuah rancangan majalah yang memaparkan pelbagai topik menarik untuk tatapan para penonton.(n)</desc>
+  </programme>
+  <programme start="20210109050000 +0800" stop="20210109054500 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210109054500 +0800" stop="20210109060000 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Ikuti kisah kegigihan dan kejayaan seorang usahawan wanita berjaya iaitu Leftenan Maritim Aida Arzahari (Nakhoda Kapal).(n)</desc>
+  </programme>
+  <programme start="20210109060000 +0800" stop="20210109070000 +0800" channel="TV1">
+    <title lang="en">Tilawah Interaktif 9 Januari 2021</title>
+    <desc lang="en">Perdengarkan bacaan Surah ADZ-DZAARIYAAT ayat: 1-11 dengan bacaan Tarannum: Soba bersama Nur Asyikin Mohd Abd Malik dan Juri Undangan, Ustaz Ahmad Tarmizi Abdul Rahman.(n)</desc>
+  </programme>
+  <programme start="20210109070000 +0800" stop="20210109073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210109073000 +0800" stop="20210109074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210109074500 +0800" stop="20210109080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210109080000 +0800" stop="20210109100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210109100000 +0800" stop="20210109103000 +0800" channel="TV1">
+    <title lang="en">TV1 KIDS: Operation Ouch!</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210109103000 +0800" stop="20210109110000 +0800" channel="TV1">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Saksikan kisah MOWGLI THE SOOTHSAYER dan KING FOR A DAY.(n)</desc>
+  </programme>
+  <programme start="20210109110000 +0800" stop="20210109120000 +0800" channel="TV1">
+    <title lang="en">Pesona XY 9 Januari 2021</title>
+    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu jemputan, Abdul Saman Taip, Melda Taip, Mohamed Nasiruddin Hassan, Mohd Shafiq Zulkarnain dan Penampilan Khas, Danial Chuer.(n)</desc>
+  </programme>
+  <programme start="20210109120000 +0800" stop="20210109123000 +0800" channel="TV1">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Memaparkan tentang teknologi sistem Bio Metrik yang digunakan sebagai sistem kawalan peranti akses untuk keselamatan dan alat pemantauan yang canggih.(n)</desc>
+  </programme>
+  <programme start="20210109123000 +0800" stop="20210109130000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Muzikku</title>
+    <desc lang="en">Sebuah rancangan hiburan yang memaparkan estetika tarian rakyat artistik alat muzik  warisan lagu rakyat.(n)</desc>
+  </programme>
+  <programme start="20210109130000 +0800" stop="20210109133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210109133000 +0800" stop="20210109140000 +0800" channel="TV1">
+    <title lang="en">Logika Alam</title>
+    <desc lang="en">Episod pada kali ini mengenai kesan ketidakwujudan bintang terhadap bumi menerusi topik Seandainya Bintang Tiada.(n)</desc>
+  </programme>
+  <programme start="20210109140000 +0800" stop="20210109143000 +0800" channel="TV1">
+    <title lang="en">I-Gen</title>
+    <desc lang="en">Sebuah program majalah yg mempromosikan pelan pembangunan sukan negara di peringkat akar umbi. Paparan setiap episod akan tertumpu kepada pembangunan akademi-akademi sukan dan perkhidmatan fasiliti sukan yang terdapat di Malaysia.(n)</desc>
+  </programme>
+  <programme start="20210109143000 +0800" stop="20210109150000 +0800" channel="TV1">
+    <title lang="en">Agrotek 9 Januari 2021</title>
+    <desc lang="en">Majalah pertanian yang memfokuskan penggunaan teknologi terkini.(n)</desc>
+  </programme>
+  <programme start="20210109150000 +0800" stop="20210109170000 +0800" channel="TV1">
+    <title lang="en">MEMORI : Egoistik</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210109170000 +0800" stop="20210109180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210109180000 +0800" stop="20210109181500 +0800" channel="TV1">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Pewaris Legasi episod ini bersama Puan Surahaini binti Hussin, Pengusaha Batik Garam dan pewaris legasinya Nur Fatin Idayu binti Amran.(n)</desc>
+  </programme>
+  <programme start="20210109181500 +0800" stop="20210109183000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210109183000 +0800" stop="20210109190000 +0800" channel="TV1">
+    <title lang="en">Muqaddam (9 Januari 2021)</title>
+    <desc lang="en">Pelajari tentang Makhraj dan Tajwid serta Fashohah daripada Surah Al-Inshirah Ayat : 3-4, bersama Ustaz Mohamad Taha Hj. Hassan Azahari.(n)</desc>
+  </programme>
+  <programme start="20210109190000 +0800" stop="20210109200000 +0800" channel="TV1">
+    <title lang="en">Sara Kirana</title>
+    <desc lang="en">Mengisahkan seorang gadis kampung berkahwin dengan jejaka bandar yang tegas dan sombong. Perkahwinan tersebut diaturkan oleh ibu bapa keluarga lelaki. Oleh kerana suami tidak mencintai isterinya maka isteri sering menjadi tempat sasaran suami melepaskan perasaan marah dan dilayan seperti orang suruhan dalam rumah.(n)</desc>
+  </programme>
+  <programme start="20210109200000 +0800" stop="20210109210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210109210000 +0800" stop="20210109230000 +0800" channel="TV1">
+    <title lang="en">PANGGUNG RTM : Khilaf Terakhir</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210109230000 +0800" stop="20210109235900 +0800" channel="TV1">
+    <title lang="en">Istimewa Bersama Indie Band</title>
+    <desc lang="en">Saksikan persembahan Indie Band dan artis undangan.(n)</desc>
+  </programme>
+  <programme start="20210110000000 +0800" stop="20210110003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210110003000 +0800" stop="20210110013000 +0800" channel="TV1">
+    <title lang="en">Sukan Lejen - Diskusi Imbasan (Musim 2)</title>
+    <desc lang="en">Rancangan bual biacara bersama Izwan Mohd Nor bersama tetamu undangan di studio dan juga tetamu undangan di rumah mengupas beberapa detik-detik kegemilangan sukan tanah air suatu ketika dahulu.(n)</desc>
+  </programme>
+  <programme start="20210110013000 +0800" stop="20210110020000 +0800" channel="TV1">
+    <title lang="en">Rona Sabah (10 Januari 2021)</title>
+    <desc lang="en">Saksikan paparan lanjut tentang MASJID BANDARAYA PUSAT PEMBANGUNAN UMMAH.(n)</desc>
+  </programme>
+  <programme start="20210110020000 +0800" stop="20210110023000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210110023000 +0800" stop="20210110030000 +0800" channel="TV1">
+    <title lang="en">Agrotek 10 Januari 2021</title>
+    <desc lang="en">Majalah pertanian yang memfokuskan penggunaan teknologi terkini.(n)</desc>
+  </programme>
+  <programme start="20210110030000 +0800" stop="20210110033000 +0800" channel="TV1">
+    <title lang="en">Tumit Tinggi</title>
+    <desc lang="en">Saksikan paparan menarik wanita kreatif iaitu Asna Nabihah Aziz (Usahawan Nature Renascent) yang berjaya menghasilkan produk berasaskan serat daun nanas untuk dikomersialkan. Kenali juga Nur Farrah Diba Azhar (Usahawan Dapoq Nur Farra) yang berbakat dalam menghasilkan Kueh Bulan yang enak dan diminati ramai.(n)</desc>
+  </programme>
+  <programme start="20210110033000 +0800" stop="20210110040000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Muzikku</title>
+    <desc lang="en">Sebuah rancangan hiburan yang memaparkan estetika tarian rakyat artistik alat muzik  warisan lagu rakyat.(n)</desc>
+  </programme>
+  <programme start="20210110040000 +0800" stop="20210110060000 +0800" channel="TV1">
+    <title lang="en">PANGGUNG RTM : Khilaf Terakhir</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210110060000 +0800" stop="20210110063000 +0800" channel="TV1">
+    <title lang="en">Ilmu Aqaaid 10 Januari 2021</title>
+    <desc lang="en">Saksikan diskusi tentang SYURGA bersama Ustaz Najmuddin Abdul Karim.(n)</desc>
+  </programme>
+  <programme start="20210110063000 +0800" stop="20210110070000 +0800" channel="TV1">
+    <title lang="en">Panorama 10 Januari 2021</title>
+    <desc lang="en">Jururawat sinonimnya merupakan bidang yg bersifat kewanitaan dan dikuasai oleh golongan wanita... di KPJ Klang...jururawat lelaki menyahut cabaran mengubah pandangan masyarakat terhadap jururawat  masa kini. Kupang pula kebiasaannya menjadi bahan dalam menu masakan, tetapi berbeza di negeri Johor, kupang kini diproses menjadi keropok kering. Ia diusahakan oleh penduduk Kampung Sungai Melayu di Johor Bahru.(n)</desc>
+  </programme>
+  <programme start="20210110070000 +0800" stop="20210110073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210110073000 +0800" stop="20210110074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210110074500 +0800" stop="20210110080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210110080000 +0800" stop="20210110100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210110100000 +0800" stop="20210110103000 +0800" channel="TV1">
+    <title lang="en">TV1 KIDS: Operation Ouch!</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210110103000 +0800" stop="20210110110000 +0800" channel="TV1">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Saksikan kisah THE NOSE KNOWS dan THE RISE OF TABAQUI.(n)</desc>
+  </programme>
+  <programme start="20210110110000 +0800" stop="20210110113000 +0800" channel="TV1">
+    <title lang="en">Rentak Jalanan</title>
+    <desc lang="en">Rancangan memperkenalkan pelbagai lokasi pilihan yang menjadi tumpuan dan sebagai sebuah pusat penggalak pertumbuhan ekonomi setempat seperti pusat pelancongan, pertanian, perniagaan, perindustrian yang menarik dan juga aktiviti masyarakat setempat yang unik.(n)</desc>
+  </programme>
+  <programme start="20210110113000 +0800" stop="20210110120000 +0800" channel="TV1">
+    <title lang="en">Semporna di Kaki Langit</title>
+    <desc lang="en">Bersama dengan beberapa orang pelancong luar negara menjelajahi persekitaran Pulau Sumandi dan Pulau Larapan.(n)</desc>
+  </programme>
+  <programme start="20210110120000 +0800" stop="20210110123000 +0800" channel="TV1">
+    <title lang="en">Tumit Tinggi</title>
+    <desc lang="en">Bersama pengacara Emy Nur Tinie ikuti paparan tentang kisah Arinna Erin Wira yang merupakan wanita Malaysia pertama menjadi model NIKE bagi pakaian renang patuh Syariah. Juga, ikuti kisah Syazwani Ismail yang merupakan jurusolek Profesional  yang berbakat besar dan di kenali ramai.(n)</desc>
+  </programme>
+  <programme start="20210110123000 +0800" stop="20210110130000 +0800" channel="TV1">
+    <title lang="en">Tribute To Maradona : Special Tribute - 'Diego: People's Champion'</title>
+    <desc lang="en">Saksikan Tribute To Maradona : Special Tribute - 'Diego: People's Champion'.(n)</desc>
+  </programme>
+  <programme start="20210110130000 +0800" stop="20210110133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210110133000 +0800" stop="20210110140000 +0800" channel="TV1">
+    <title lang="en">Penginapan Unik</title>
+    <desc lang="en">Bersama Ellyas Abdullah, saksikan keunikan penginapan SAILOR REST RESORT, KG JANDA BAIK serta aktiviti yang ditawarkan.(n)</desc>
+  </programme>
+  <programme start="20210110140000 +0800" stop="20210110150000 +0800" channel="TV1">
+    <title lang="en">Wira Remaja</title>
+    <desc lang="en">Bersama hos Izzue Islam dan Amira Aman bersama tetamu wira wira remaja dalam 4 segmen    1. Kisahku :  Muhammad Zulhusnie - Sukarelawan Guru Malaysia 2. Rahsia Berjaya : Nazirul Nazrin - Water Rafting 3. Motivasi dan Inspirasi : Muhammad Haziq - Bottle Garage 4. Yezza : Nur Aimi Zabidi - Pemelihara Leopard Gecko.(n)</desc>
+  </programme>
+  <programme start="20210110150000 +0800" stop="20210110160000 +0800" channel="TV1">
+    <title lang="en">Teristimewa</title>
+    <desc lang="en">Membawakan kisah mengenai sumbangan Allahyarham Loloq kepada industri muzik dan Artis jemputan M.Nasir.(n)</desc>
+  </programme>
+  <programme start="20210110160000 +0800" stop="20210110170000 +0800" channel="TV1">
+    <title lang="en">Pesona Alam</title>
+    <desc lang="en">Sebuah program dokomentari yang menjelajah ke tempat menarik bagi menerokai keindahan alam di negara ini.(n)</desc>
+  </programme>
+  <programme start="20210110170000 +0800" stop="20210110180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210110180000 +0800" stop="20210110181500 +0800" channel="TV1">
+    <title lang="en">Semalam di Malaysia</title>
+    <desc lang="en">Bersama Zahid (Jurufoto Time Lapse) merakamkan keindahan panorama indah yang terdapat di Tempasuk Kota Belut Sabah.(n)</desc>
+  </programme>
+  <programme start="20210110181500 +0800" stop="20210110183000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210110183000 +0800" stop="20210110190000 +0800" channel="TV1">
+    <title lang="en">Persada Jurnal 10 Januari 2021</title>
+    <desc lang="en">Ikuti paparan mengenai SUSU KELUARAN MUSLIM.(n)</desc>
+  </programme>
+  <programme start="20210110190000 +0800" stop="20210110200000 +0800" channel="TV1">
+    <title lang="en">Sara Kirana</title>
+    <desc lang="en">Mengisahkan seorang gadis kampung berkahwin dengan jejaka bandar yang tegas dan sombong. Perkahwinan tersebut diaturkan oleh ibu bapa keluarga lelaki. Oleh kerana suami tidak mencintai isterinya maka isteri sering menjadi tempat sasaran suami melepaskan perasaan marah dan dilayan seperti orang suruhan dalam rumah.(n)</desc>
+  </programme>
+  <programme start="20210110200000 +0800" stop="20210110210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210110210000 +0800" stop="20210110223000 +0800" channel="TV1">
+    <title lang="en">Anugerah Nasyid Malaysia 2020</title>
+    <desc lang="en">Saksikan Anugerah Nasyid Malaysia 2020 secara langsung dari Auditorium Perdana Angkasapuri.(n)</desc>
+  </programme>
+  <programme start="20210110223000 +0800" stop="20210110233000 +0800" channel="TV1">
+    <title lang="en">Sukan Lejen - Diskusi Imbasan Edited</title>
+    <desc lang="en">Mengimbas kembali perlawanan sukan Asia Busan 2002 Tinju Separuh Akhir 62 kg.(n)</desc>
+  </programme>
+  <programme start="20210110233000 +0800" stop="20210110235900 +0800" channel="TV1">
+    <title lang="en">Semporna di Kaki Langit</title>
+    <desc lang="en">Bersama dengan beberapa orang pelancong luar negara menjelajahi persekitaran Pulau Sumandi dan Pulau Larapan.(n)</desc>
+  </programme>
+  <programme start="20210111000000 +0800" stop="20210111003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210111003000 +0800" stop="20210111010000 +0800" channel="TV1">
+    <title lang="en">Tumit Tinggi</title>
+    <desc lang="en">Bersama pengacara Amy Nurtinie, saksikan paparan menarik kisah kejayaan bersama personaliti hebat, Arinna Erin Wira yang terlibat dalam bidang peragaan. Kenali juga Nur Syazwani Ismail yang merupakan jurusolek profesional yang berbakat besar.(n)</desc>
+  </programme>
+  <programme start="20210111010000 +0800" stop="20210111020000 +0800" channel="TV1">
+    <title lang="en">Teristimewa</title>
+    <desc lang="en">Membawakan kisah mengenai sumbangan Allahyarham Loloq kepada industri muzik dan Artis jemputan M.Nasir.(n)</desc>
+  </programme>
+  <programme start="20210111020000 +0800" stop="20210111023000 +0800" channel="TV1">
+    <title lang="en">Rentak Jalanan</title>
+    <desc lang="en">Rancangan memperkenalkan pelbagai lokasi pilihan yang menjadi tumpuan dan sebagai sebuah pusat penggalak pertumbuhan ekonomi setempat seperti pusat pelancongan, pertanian, perniagaan, perindustrian yang menarik dan juga aktiviti masyarakat setempat yang unik.(n)</desc>
+  </programme>
+  <programme start="20210111023000 +0800" stop="20210111033000 +0800" channel="TV1">
+    <title lang="en">Pesona Alam</title>
+    <desc lang="en">Sebuah program dokomentari yang menjelajah ke tempat menarik bagi menerokai keindahan alam di negara ini.(n)</desc>
+  </programme>
+  <programme start="20210111033000 +0800" stop="20210111040000 +0800" channel="TV1">
+    <title lang="en">Tribute To Maradona : Special Tribute - 'Diego: People's Champion'</title>
+    <desc lang="en">Saksikan Tribute To Maradona : Special Tribute - 'Diego: People's Champion'.(n)</desc>
+  </programme>
+  <programme start="20210111040000 +0800" stop="20210111060000 +0800" channel="TV1">
+    <title lang="en">Telemovie : Egoistik</title>
+    <desc lang="en">Telemovie menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210111060000 +0800" stop="20210111063000 +0800" channel="TV1">
+    <title lang="en">Kembara Damai</title>
+    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.(n)</desc>
+  </programme>
+  <programme start="20210111063000 +0800" stop="20210111070000 +0800" channel="TV1">
+    <title lang="en">Muqaddam (11 Januari 2021)</title>
+    <desc lang="en">Pelajari tentang Makhraj dan Tajwid serta Fashohah daripada Surah Al-Inshirah Ayat : 3-4, bersama Ustaz Mohamad Taha Hj. Hassan Azahari.(n)</desc>
+  </programme>
+  <programme start="20210111070000 +0800" stop="20210111073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210111073000 +0800" stop="20210111074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210111074500 +0800" stop="20210111080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210111080000 +0800" stop="20210111100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210111100000 +0800" stop="20210111103000 +0800" channel="TV1">
+    <title lang="en">Busana Adat</title>
+    <desc lang="en">Membawa penonton mengunjungi Rumah Panjang kaum Kejanam Neh di Long Luen, Belaga.(n)</desc>
+  </programme>
+  <programme start="20210111103000 +0800" stop="20210111110000 +0800" channel="TV1">
+    <title lang="en">Gadis dan Gua</title>
+    <desc lang="en">Program dokumentari membawa penonton meneroka lokasi dan sejarah gua-gua terkenal yang terdapat di seluruh pelusuk tanah air yang menjadi tempat rekreasi dan juga kajian saintifik.(n)</desc>
+  </programme>
+  <programme start="20210111110000 +0800" stop="20210111113000 +0800" channel="TV1">
+    <title lang="en">Citarasa Medika</title>
+    <desc lang="en">Sebuah rancangan masakan kesihatan yang menampilkan Cef Fikree Aznan sebagai pengacara yang berkongsi resepi-resepi berkhasiat dalam mengawal penyakit seperti gaut, angin ahmar, strok, diabetes dan darah tinggi. Chef Fikree Aznan akan memasak bersama doktor pakar, pakar pemakanan dan artis jemputan yang dibawakan khas untuk penonton.(n)</desc>
+  </programme>
+  <programme start="20210111113000 +0800" stop="20210111120000 +0800" channel="TV1">
+    <title lang="en">Boleh Tumpangkan Saya?</title>
+    <desc lang="en">Ikuti Ebi Kornelis yang cuba menumpang apa juga jenis kenderaan dalam perjalanannya dari Negeri Johor Darul Takzim merentasi 13 buah negeri dalam Malaysia sehingga ke Sabah Negeri Di Bawah Bayu.(n)</desc>
+  </programme>
+  <programme start="20210111120000 +0800" stop="20210111130000 +0800" channel="TV1">
+    <title lang="en">Baby Animals In The Wild</title>
+    <desc lang="en">Saksikan paparan menarik tentang anak-anak haiwan di  negara Australia seperti Kangaroo, Beruang Koala, Penguin, Burung Nuri, Landak dan Anjing.(n)</desc>
+  </programme>
+  <programme start="20210111130000 +0800" stop="20210111133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210111133000 +0800" stop="20210111140000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Eko</title>
+    <desc lang="en">Memaparkan penjelajahan Nurata Amin membawa kita ke Sabah dimana kali ini ke  Kem Supu.(n)</desc>
+  </programme>
+  <programme start="20210111140000 +0800" stop="20210111141500 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Feminin Waja episod kali ini membawakan hero wanita iaitu Leftenan Maritim Aida Arzahari seorang Nahkoda Kapal.(n)</desc>
+  </programme>
+  <programme start="20210111141500 +0800" stop="20210111150000 +0800" channel="TV1">
+    <title lang="en">Kami Bah Ini 11 Januari 2021</title>
+    <desc lang="en">Ikuti perkongsian mengenai topik 'Dua Wanita Pertama Sabah Terima Vaksin Covid-19' bersama Dr Zainab Kassim dan Leorita Joseph Henry dari Hospital NHS, London. Juga, demonstrasi lukisan cat air bertemakan 'The Wonders Of Sabah' oleh Edoen Kang dan juga saksikan persembahan artis tempatan Sabah iaitu Wiseheartzz.(n)</desc>
+  </programme>
+  <programme start="20210111150000 +0800" stop="20210111160000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210111160000 +0800" stop="20210111163000 +0800" channel="TV1">
+    <title lang="en">Kembara Khatulistiwa</title>
+    <desc lang="en">Saksikan paparan lanjut tentang GUA KOTA GELANGI.(n)</desc>
+  </programme>
+  <programme start="20210111163000 +0800" stop="20210111170000 +0800" channel="TV1">
+    <title lang="en">Info Medika</title>
+    <desc lang="en">Info Medika membawakan informasi mengenai kaedah rawatan dan punca penyakit terminal atau penyakit sukar untuk pulih. Episod kali ini mengenai Kanser Pankreas.(n)</desc>
+  </programme>
+  <programme start="20210111170000 +0800" stop="20210111180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210111180000 +0800" stop="20210111183000 +0800" channel="TV1">
+    <title lang="en">Santai Riders</title>
+    <desc lang="en">Bersama Linda Onn dan tetamu berkongsi hobi dan pengalaman menarik menunggang motosikal berkuasa tinggi.(n)</desc>
+  </programme>
+  <programme start="20210111183000 +0800" stop="20210111184500 +0800" channel="TV1">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Saksikan paparan lanjut tentang keunikan Anyaman Dastar yang diusahakan oleh Pn. Pn Hjh Pandian Hj Sulaiman bersama warisnya Mas Patingan Samsul &amp; Salamiah Hj Uding.(n)</desc>
+  </programme>
+  <programme start="20210111184500 +0800" stop="20210111190000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210111190000 +0800" stop="20210111200000 +0800" channel="TV1">
+    <title lang="en">Kelas 3 Cempaka s1-e8</title>
+    <desc lang="en">Gara-gara Ops Lalang, Khaidir &amp; Ahmad ke Salon rambut Asahara. Yang pasti Junainah yakin akan menyandang jawatan Ketua Kelas 3 Cempaka. Ridzwan yang diharapkan akan menjadi wakil pelajar bagi tingkatan 3 tidak munculkan diri semasa pemilihan dibuat.Â.(n)</desc>
+  </programme>
+  <programme start="20210111200000 +0800" stop="20210111210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210111210000 +0800" stop="20210111220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Pengguna (11 Januari 2021)</title>
+    <desc lang="en">Saksikan kupasan lanjut mengenai topik COVID-19: HAK-HAK PEKERJA DI BAWAH AKTA 177 bersama tetamu jemputan Khalid Jali, Ketua Pengarah Jabatan Perhubungan Perusahaan Malaysia.(n)</desc>
+  </programme>
+  <programme start="20210111220000 +0800" stop="20210111223000 +0800" channel="TV1">
+    <title lang="en">Panorama 11 Januari 2021</title>
+    <desc lang="en">Jururawat sinonimnya merupakan bidang yg bersifat kewanitaan dan dikuasai oleh golongan wanita... di KPJ Klang...jururawat lelaki menyahut cabaran mengubah pandangan masyarakat terhadap jururawat  masa kini. Kupang pula kebiasaannya menjadi bahan dalam menu masakan, tetapi berbeza di negeri Johor, kupang kini diproses menjadi keropok kering. Ia diusahakan oleh penduduk Kampung Sungai Melayu di Johor Bahru.(n)</desc>
+  </programme>
+  <programme start="20210111223000 +0800" stop="20210111230000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210111230000 +0800" stop="20210111233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20210111233000 +0800" stop="20210111235900 +0800" channel="TV1">
+    <title lang="en">Aspirasi Cub Prix 2020</title>
+    <desc lang="en">Pengacara Nasha Edziera dan Elly Idzlianizar Ilias membawakan kisah mengenai sistem ekzos motosikal.(n)</desc>
+  </programme>
+  <programme start="20210112000000 +0800" stop="20210112003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210112003000 +0800" stop="20210112004500 +0800" channel="TV1">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Saksikan paparan lanjut tentang keunikan Anyaman Dastar yang diusahakan oleh Pn. Pn Hjh Pandian Hj Sulaiman bersama warisnya Mas Patingan Samsul &amp; Salamiah Hj Uding.(n)</desc>
+  </programme>
+  <programme start="20210112004500 +0800" stop="20210112010000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210112010000 +0800" stop="20210112013000 +0800" channel="TV1">
+    <title lang="en">Agropreneur Muda</title>
+    <desc lang="en">Saksikan Shah Hazree berkongsi kisah kejayaan Penternak &amp; Pembiak Ayam, Itik &amp; Kambing Baka, Amir Syahmi dan Pengusaha Cili Fertigasi, Harith Akmal.(n)</desc>
+  </programme>
+  <programme start="20210112013000 +0800" stop="20210112020000 +0800" channel="TV1">
+    <title lang="en">Sfera / Promo</title>
+    <desc lang="en">Sebuah rancangan majalah yang memaparkan pelbagai topik menarik untuk tatapan para penonton.(n)</desc>
+  </programme>
+  <programme start="20210112020000 +0800" stop="20210112023000 +0800" channel="TV1">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Memaparkan tentang teknologi sistem Bio Metrik yang digunakan sebagai sistem kawalan peranti akses untuk keselamatan dan alat pemantauan yang canggih.(n)</desc>
+  </programme>
+  <programme start="20210112023000 +0800" stop="20210112030000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Eko</title>
+    <desc lang="en">Memaparkan penjelajahan Nurata Amin membawa kita ke Sabah dimana kali ini ke  Kem Supu.(n)</desc>
+  </programme>
+  <programme start="20210112030000 +0800" stop="20210112033000 +0800" channel="TV1">
+    <title lang="en">Kembara Damai</title>
+    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.(n)</desc>
+  </programme>
+  <programme start="20210112033000 +0800" stop="20210112043000 +0800" channel="TV1">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Drama mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup membunuh semata-mata untuk memuaskan nafsu dendam kesumatnya. Lakonan : Ayu Raudah dan Syed Aiman.(n)</desc>
+  </programme>
+  <programme start="20210112043000 +0800" stop="20210112050000 +0800" channel="TV1">
+    <title lang="en">Boleh Tumpangkan Saya?</title>
+    <desc lang="en">Ikuti Ebi Kornelis yang cuba menumpang apa juga jenis kenderaan dalam perjalanannya dari Negeri Johor Darul Takzim merentasi 13 buah negeri dalam Malaysia sehingga ke Sabah Negeri Di Bawah Bayu.(n)</desc>
+  </programme>
+  <programme start="20210112050000 +0800" stop="20210112060000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210112060000 +0800" stop="20210112063000 +0800" channel="TV1">
+    <title lang="en">Kembara Damai</title>
+    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.(n)</desc>
+  </programme>
+  <programme start="20210112063000 +0800" stop="20210112070000 +0800" channel="TV1">
+    <title lang="en">Persada Jurnal 12 Januari 2021</title>
+    <desc lang="en">Ikuti paparan mengenai SUSU KELUARAN MUSLIM.(n)</desc>
+  </programme>
+  <programme start="20210112070000 +0800" stop="20210112073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210112073000 +0800" stop="20210112074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210112074500 +0800" stop="20210112080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210112080000 +0800" stop="20210112100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210112100000 +0800" stop="20210112103000 +0800" channel="TV1">
+    <title lang="en">Busana Adat</title>
+    <desc lang="en">Membawa penonton mengunjungi Rumah Panjang kaum Kejanam Neh di Long Luen, Belaga.(n)</desc>
+  </programme>
+  <programme start="20210112103000 +0800" stop="20210112110000 +0800" channel="TV1">
+    <title lang="en">Gadis Dan Gua</title>
+    <desc lang="en">Jom! Ikut Natasha Charmine menjelajah ke Gua Jepun dan Gua Air, Baling Kedah.(n)</desc>
+  </programme>
+  <programme start="20210112110000 +0800" stop="20210112113000 +0800" channel="TV1">
+    <title lang="en">Citarasa Medika</title>
+    <desc lang="en">Sebuah rancangan masakan kesihatan yang menampilkan Cef Fikree Aznan sebagai pengacara yang berkongsi resepi-resepi berkhasiat dalam mengawal penyakit seperti gaut, angin ahmar, strok, diabetes dan darah tinggi. Chef Fikree Aznan akan memasak bersama doktor pakar, pakar pemakanan dan artis jemputan yang dibawakan khas untuk penonton.(n)</desc>
+  </programme>
+  <programme start="20210112113000 +0800" stop="20210112120000 +0800" channel="TV1">
+    <title lang="en">Boleh Tumpangkan Saya?</title>
+    <desc lang="en">Ikuti Ebi Kornelis yang cuba menumpang apa juga jenis kenderaan dalam perjalanannya dari Negeri Johor Darul Takzim merentasi 13 buah negeri dalam Malaysia sehingga ke Sabah Negeri Di Bawah Bayu.(n)</desc>
+  </programme>
+  <programme start="20210112120000 +0800" stop="20210112130000 +0800" channel="TV1">
+    <title lang="en">Baby Animals In The Wild</title>
+    <desc lang="en">Saksikan paparan lanjut tentang GRASSLAND BABIES.(n)</desc>
+  </programme>
+  <programme start="20210112130000 +0800" stop="20210112133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210112133000 +0800" stop="20210112140000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Eko</title>
+    <desc lang="en">Memaparkan penjelajahan Nurata Amin ke Tawau iaitu Taman Bukit Tawau, Sabah.(n)</desc>
+  </programme>
+  <programme start="20210112140000 +0800" stop="20210112150000 +0800" channel="TV1">
+    <title lang="en">Kuppa Kopi 12 Januari 2021</title>
+    <desc lang="en">Bersama pengacara Anding Indrawani membicarakan topik berkaitan 'Noktah Pencarian' &amp; The Dance Academy (Kuching).(n)</desc>
+  </programme>
+  <programme start="20210112150000 +0800" stop="20210112160000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210112160000 +0800" stop="20210112163000 +0800" channel="TV1">
+    <title lang="en">Kembara Khatulistiwa</title>
+    <desc lang="en">Jom bersama kru Kembara Khatuliswa ke Gunung Ledang.(n)</desc>
+  </programme>
+  <programme start="20210112163000 +0800" stop="20210112170000 +0800" channel="TV1">
+    <title lang="en">Info Medika</title>
+    <desc lang="en">Info Medika membawakan informasi mengenai kaedah rawatan dan punca penyakit terminal atau penyakit sukar untuk pulih. Episod kali ini mengenai punca Serangan Strok.(n)</desc>
+  </programme>
+  <programme start="20210112170000 +0800" stop="20210112180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210112180000 +0800" stop="20210112190000 +0800" channel="TV1">
+    <title lang="en">Fikrah (12 Januari 2021)</title>
+    <desc lang="en">Ikuti diskusi lanjut tentang 'Belanjawan 2021 : Hala Tuju Pentadbiran Islam' bersama panel undangan, YB Tuan Ahmad Marzuk Shaary, Timbalan Menteri Di Jabatan Perdana Menteri (Hal Ehwal Agama) dan Prof. Dr. Mohd Roslan Mohd Noor, Akademi Pengajian Islam, Universiti Malaya.(n)</desc>
+  </programme>
+  <programme start="20210112190000 +0800" stop="20210112200000 +0800" channel="TV1">
+    <title lang="en">Kelas 3 Cempaka s1-e9</title>
+    <desc lang="en">Gara-gara Ops Lalang, Khaidir &amp; Ahmad ke Salon rambut Asahara. Yang pasti Junainah yakin akan menyandang jawatan Ketua Kelas 3 Cempaka. Ridzwan yang diharapkan akan menjadi wakil pelajar bagi tingkatan 3 tidak munculkan diri semasa pemilihan dibuat.Â.(n)</desc>
+  </programme>
+  <programme start="20210112200000 +0800" stop="20210112210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210112210000 +0800" stop="20210112220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Inspirasi (12 Januari 2021)</title>
+    <desc lang="en">Program bicarawara bertema inspirasi bersama tetamu undangan membincangkan isu semasa sebagai topik pilihan.(n)</desc>
+  </programme>
+  <programme start="20210112220000 +0800" stop="20210112223000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 12 Januari 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang A SYMPHONY IN BLUE.(n)</desc>
+  </programme>
+  <programme start="20210112223000 +0800" stop="20210112230000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210112230000 +0800" stop="20210112233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20210112233000 +0800" stop="20210112235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Atp Uncovered</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113000000 +0800" stop="20210113003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210113003000 +0800" stop="20210113013000 +0800" channel="TV1">
+    <title lang="en">Wira Remaja</title>
+    <desc lang="en">Bersama hos Izzue Islam dan Amira Aman bersama tetamu wira wira remaja dalam 4 segmen    1. Kisahku :  Muhammad Zulhusnie - Sukarelawan Guru Malaysia 2. Rahsia Berjaya : Nazirul Nazrin - Water Rafting 3. Motivasi dan Inspirasi : Muhammad Haziq - Bottle Garage 4. Yezza : Nur Aimi Zabidi - Pemelihara Leopard Gecko.(n)</desc>
+  </programme>
+  <programme start="20210113013000 +0800" stop="20210113020000 +0800" channel="TV1">
+    <title lang="en">X-Sikap</title>
+    <desc lang="en">Bersama Qazem Nor menemuramah Muhammad Syafiq dan kakaknya, Puan Salina serta Insp. Noor Aemy dari Bahagian Trafik PDRM tentang isu 'Tabiat Melanggar Lampu Merah'.(n)</desc>
+  </programme>
+  <programme start="20210113020000 +0800" stop="20210113023000 +0800" channel="TV1">
+    <title lang="en">Semalam di Malaysia</title>
+    <desc lang="en">Bersama Zahid (Jurufoto Time Lapse) merakamkan keindahan panorama dan kehidupan kaum Bajau Laut di Pulau Maiga, Semporna Sabah.(n)</desc>
+  </programme>
+  <programme start="20210113023000 +0800" stop="20210113030000 +0800" channel="TV1">
+    <title lang="en">Ekspresi Eko</title>
+    <desc lang="en">Memaparkan penjelajahan Nurata Amin ke Tawau iaitu Taman Bukit Tawau, Sabah.(n)</desc>
+  </programme>
+  <programme start="20210113030000 +0800" stop="20210113033000 +0800" channel="TV1">
+    <title lang="en">Kembara Damai</title>
+    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.(n)</desc>
+  </programme>
+  <programme start="20210113033000 +0800" stop="20210113043000 +0800" channel="TV1">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Drama mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup membunuh semata-mata untuk memuaskan nafsu dendam kesumatnya. Lakonan : Ayu Raudah dan Syed Aiman.(n)</desc>
+  </programme>
+  <programme start="20210113043000 +0800" stop="20210113050000 +0800" channel="TV1">
+    <title lang="en">Boleh Tumpangkan Saya?</title>
+    <desc lang="en">Ikuti Ebi Kornelis yang cuba menumpang apa juga jenis kenderaan dalam perjalanannya dari Negeri Johor Darul Takzim merentasi 13 buah negeri dalam Malaysia sehingga ke Sabah Negeri Di Bawah Bayu.(n)</desc>
+  </programme>
+  <programme start="20210113050000 +0800" stop="20210113060000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113060000 +0800" stop="20210113070000 +0800" channel="TV1">
+    <title lang="en">Fikrah (13 Januari 2021)</title>
+    <desc lang="en">Ikuti diskusi lanjut tentang 'Belanjawan 2021 : Hala Tuju Pentadbiran Islam' bersama panel undangan, YB Tuan Ahmad Marzuk Shaary, Timbalan Menteri Di Jabatan Perdana Menteri (Hal Ehwal Agama) dan Prof. Dr. Mohd Roslan Mohd Noor, Akademi Pengajian Islam, Universiti Malaya.(n)</desc>
+  </programme>
+  <programme start="20210113070000 +0800" stop="20210113073000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+  </programme>
+  <programme start="20210113073000 +0800" stop="20210113074500 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan Berita Pagi Sabah yang memaparkan perkembangan berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210113074500 +0800" stop="20210113080000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210113080000 +0800" stop="20210113100000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+  </programme>
+  <programme start="20210113100000 +0800" stop="20210113103000 +0800" channel="TV1">
+    <title lang="en">Jiwa Kacau</title>
+    <desc lang="en">Ikuti kupasan lanjut tentang 'OCD - Obsessive Compulsive Disorder' bersama Pakar Psikiatri, Dr. Hazli Zakaria dan Pakar Motivasi, Ustaz Tuan Asmawi.(n)</desc>
+  </programme>
+  <programme start="20210113103000 +0800" stop="20210113110000 +0800" channel="TV1">
+    <title lang="en">Nadi Cergas</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113110000 +0800" stop="20210113113000 +0800" channel="TV1">
+    <title lang="en">Menu RM10</title>
+    <desc lang="en">Saksikan Chef Azli Razali berkongsi menu orang bujang iaitu Lempeng dengan Sambal Sardin dan Agar-Agar Koktel.(n)</desc>
+  </programme>
+  <programme start="20210113113000 +0800" stop="20210113120000 +0800" channel="TV1">
+    <title lang="en">Klik-Klik (Sr.5)</title>
+    <desc lang="en">Pengembaraan Nordin Md Salleh diteruskan di sekitar Kathmandu, Nepal.(n)</desc>
+  </programme>
+  <programme start="20210113120000 +0800" stop="20210113130000 +0800" channel="TV1">
+    <title lang="en">WORLD WATCH: A Year In The Wild - Alaska &amp; Yorkshire</title>
+    <desc lang="en">Saksikan âSPRINGâ yang mengisahkan tentang bagaimana binatang bersiap sedia untuk menyesuaikan diri menghadapi cabaran baru dalam peralihan cuaca di Yorkshire Utara, England.(n)</desc>
+  </programme>
+  <programme start="20210113130000 +0800" stop="20210113133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210113133000 +0800" stop="20210113140000 +0800" channel="TV1">
+    <title lang="en">Skuad Chenta</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113140000 +0800" stop="20210113150000 +0800" channel="TV1">
+    <title lang="en">My Halal 13 Januari 2021</title>
+    <desc lang="en">Ikuti diskusi tentang 'Covid-19 : Ke Mana Pensijilan Halal?' bersama tetamu jemputan, Mohd Fakarudin Mas'od (KPP Cawangan Pengesahan Halal Bahagian Pengurusan Halal, JAKIM) dan Ahmad Syukry Ibrahim (Ahli Jawatankuasa Halal Persekutuan Pekilang-Pekilang Malaysia).(n)</desc>
+  </programme>
+  <programme start="20210113150000 +0800" stop="20210113160000 +0800" channel="TV1">
+    <title lang="en">BIDADARI : Nana Nini Nunu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113160000 +0800" stop="20210113163000 +0800" channel="TV1">
+    <title lang="en">Sinei Kitak Tok</title>
+    <desc lang="en">Jom! Bersama Fadzril Hisyam berenang dn menyelam dalam ekspedisi mencari batu permata serta mempelajari proses mencanang batu sebelum dijadikan batu cincin.(n)</desc>
+  </programme>
+  <programme start="20210113163000 +0800" stop="20210113170000 +0800" channel="TV1">
+    <title lang="en">Panorama 13 Januari 2021</title>
+    <desc lang="en">Jururawat sinonimnya merupakan bidang yg bersifat kewanitaan dan dikuasai oleh golongan wanita... di KPJ Klang...jururawat lelaki menyahut cabaran mengubah pandangan masyarakat terhadap jururawat  masa kini. Kupang pula kebiasaannya menjadi bahan dalam menu masakan, tetapi berbeza di negeri Johor, kupang kini diproses menjadi keropok kering. Ia diusahakan oleh penduduk Kampung Sungai Melayu di Johor Bahru.(n)</desc>
+  </programme>
+  <programme start="20210113170000 +0800" stop="20210113180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+  </programme>
+  <programme start="20210113180000 +0800" stop="20210113183000 +0800" channel="TV1">
+    <title lang="en">Bakul Telur Emas</title>
+    <desc lang="en">Bakul Telur Emas pada minggu ini membincangkan tentang topik Daya Lawan Masa bersama pakar perunding kewangan.(n)</desc>
+  </programme>
+  <programme start="20210113183000 +0800" stop="20210113184500 +0800" channel="TV1">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Pewaris Legasi episod ini bersama Puan Surahaini binti Hussin, Pengusaha Batik Garam dan pewaris legasinya Nur Fatin Idayu binti Amran.(n)</desc>
+  </programme>
+  <programme start="20210113184500 +0800" stop="20210113190000 +0800" channel="TV1">
+    <title lang="en">PSA/Promo</title>
+    <desc lang="en">Promo.(n)</desc>
+  </programme>
+  <programme start="20210113190000 +0800" stop="20210113200000 +0800" channel="TV1">
+    <title lang="en">Kelas 3 Cempaka s1-e10</title>
+    <desc lang="en">Gara-gara Ops Lalang, Khaidir &amp; Ahmad ke Salon rambut Asahara. Yang pasti Junainah yakin akan menyandang jawatan Ketua Kelas 3 Cempaka. Ridzwan yang diharapkan akan menjadi wakil pelajar bagi tingkatan 3 tidak munculkan diri semasa pemilihan dibuat.Â.(n)</desc>
+  </programme>
+  <programme start="20210113200000 +0800" stop="20210113210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+  </programme>
+  <programme start="20210113210000 +0800" stop="20210113220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Politikonomi (13 Januari 2021)</title>
+    <desc lang="en">Saksikan diskusi tentang JOHOR BERDAYA TAHAN DEMI KEMAKMURAN bersama Menteri Besar Johor, YAB Datuk Haji Hasni bin Mohammad.(n)</desc>
+  </programme>
+  <programme start="20210113220000 +0800" stop="20210113223000 +0800" channel="TV1">
+    <title lang="en">Rona Sabah (13 Januari 2021)</title>
+    <desc lang="en">Saksikan paparan lanjut tentang MASJID BANDARAYA PUSAT PEMBANGUNAN UMMAH.(n)</desc>
+  </programme>
+  <programme start="20210113223000 +0800" stop="20210113230000 +0800" channel="TV1">
+    <title lang="en">SITRUS: KHAS CUTI SEKOLAH: Cucu Wan Lebor</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20210113230000 +0800" stop="20210113233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20210113233000 +0800" stop="20210113235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Atp Uncovered</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+</tv>
